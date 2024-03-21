@@ -102,7 +102,8 @@ paths:
                   success:
                     type: boolean
                   errorMessage:
-                    type: string```
+                    type: string
+```
 
 ### Available actions
 
